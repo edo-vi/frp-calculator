@@ -8,3 +8,10 @@ Just copy the `output` folder and open `index.html` using your favorite browser.
 
 ## Source
 Source files can be found in the `src` folder.
+
+## Pictures
+&nbsp; &nbsp; &nbsp; ![](./calc1.png)
+
+![](./calc2.png)
+
+![](./calc3.png)
